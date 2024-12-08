@@ -1,6 +1,6 @@
 import { Component, EventEmitter, Output } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { newTask } from '../../../interfaces/newTask.interface';
+import { newTask } from '../../../../interfaces/newTask.interface';
 
 @Component({
   selector: 'app-new-task',
